@@ -8,6 +8,7 @@ in this project I used JS and created:
 - modal popup
 - timer
 - calculator
+
 i split the project into modules and used webpack to build it
 
 all js you can find in one file dist/js/bundle.js
